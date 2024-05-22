@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ScenarioFiles xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-
+  <ScenarioFile>
+    <Name>Test Scenario</Name>
+    <Type>Test</Type>
+    <UseGRIB xsi:nil="true" />
+    <Targets>
+      <Aircraft Callsign="ALX001" Type="A320" Delay="0" StartAuto="false">
+        <Squawk Code="2000" ModeC="true" />
+        <Position Latitude="53.53547830109278" Longitude="-34.77467008449918" Speed="0" Altitude="0" />
+        <FlightPlan Departure="KJFK" Destination="EGLL" Active="false" Equipment="LB1" CruiseSpeed="400" RFL="380" EETHours="0" EETMins="0" FuelHours="0" FuelMins="0" Remarks="/v/">NEEKO RESNO</FlightPlan>
+        <Route>NEEKO RESNO</Route>
+      </Aircraft>
+    </Targets>
+  </ScenarioFile>
 </ScenarioFiles>
