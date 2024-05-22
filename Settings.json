@@ -1,0 +1,12 @@
+{
+  "Name": "Australia",
+  "CIDs": "1291605,1596254",
+  "Icon": "https://ganderoceanic.ca/assets/resources/media/img/brand/bnr/ZQO_BNR_TSPBLUE.png",
+  "Scenarios": "https://raw.githubusercontent.com/vatpac-technology/simulator-scenarios/main/ScenarioFiles.xml",
+  "Airspace": "https://raw.githubusercontent.com/badvectors/nat-oceanic-dataset/main/Airspace.xml",
+  "Performance": "https://raw.githubusercontent.com/badvectors/nat-oceanic-dataset/main/Performance.xml",
+  "Positions": "https://raw.githubusercontent.com/badvectors/nat-oceanic-dataset/main/Positions.xml",
+  "Sectors": "https://raw.githubusercontent.com/badvectors/nat-oceanic-dataset/main/Sectors.xml",
+  "DEM": "https://raw.githubusercontent.com/badvectors/nat-oceanic-dataset/main/DEM.xml",
+  "AirportStartingLetters": "Y"
+}
