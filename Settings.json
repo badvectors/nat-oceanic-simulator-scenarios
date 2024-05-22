@@ -1,7 +1,7 @@
 {
   "Name": "NAT Oceanic",
   "CIDs": "1291605,1596254",
-  "Icon": "https://ganderoceanic.ca/assets/resources/media/img/brand/bnr/ZQO_BNR_TSPBLUE.png",
+  "Icon": "https://ganderoceanic.ca/favicon.ico",
   "Scenarios": "https://raw.githubusercontent.com/badvectors/nat-oceanic-simulator-scenarios/main/ScenarioFiles.xml",
   "Airspace": "https://raw.githubusercontent.com/badvectors/nat-oceanic-dataset/main/Airspace.xml",
   "Performance": "https://raw.githubusercontent.com/badvectors/nat-oceanic-dataset/main/Performance.xml",
